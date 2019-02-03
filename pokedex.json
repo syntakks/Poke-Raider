@@ -1,0 +1,3233 @@
+{
+    
+    "pokedex": [{
+                "version": 1
+                },
+                {
+                "pokemon": [{
+                            "name": "Bulbasaur",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/001.png",
+                            "egg": "2 km",
+                            "id": "1",
+                            "next_evolution": [{
+                                               "name": "Ivysaur",
+                                               "num": "002"
+                                               },
+                                               {
+                                               "name": "Venusaur",
+                                               "num": "003"
+                                               }
+                                               ],
+                            "prev_evolution": null,
+                            "num": "001",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Ice",
+                                           "Flying",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Grass",
+                                     "Poison"
+                                     ],
+                            "candy_count": 25
+                            }, {
+                            "name": "Caterpie",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/010.png",
+                            "egg": "2 km",
+                            "id": "10",
+                            "next_evolution": [{
+                                               "name": "Metapod",
+                                               "num": "011"
+                                               },
+                                               {
+                                               "name": "Butterfree",
+                                               "num": "012"
+                                               }
+                                               ],
+                            "prev_evolution": null,
+                            "num": "010",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Flying",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Bug"
+                                     ],
+                            "candy_count": 12
+                            }, {
+                            "name": "Voltorb",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/100.png",
+                            "egg": "5 km",
+                            "id": "100",
+                            "next_evolution": [{
+                                               "name": "Electrode",
+                                               "num": "101"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "100",
+                            "weaknesses": [
+                                           "Ground"
+                                           ],
+                            "type": [
+                                     "Electric"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Electrode",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/101.png",
+                            "egg": "Not in Eggs",
+                            "id": "101",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Voltorb",
+                                               "num": "100"
+                                               }],
+                            "num": "101",
+                            "weaknesses": [
+                                           "Ground"
+                                           ],
+                            "type": [
+                                     "Electric"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Exeggcute",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/102.png",
+                            "egg": "5 km",
+                            "id": "102",
+                            "next_evolution": [{
+                                               "name": "Exeggutor",
+                                               "num": "103"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "102",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Ice",
+                                           "Poison",
+                                           "Flying",
+                                           "Bug",
+                                           "Ghost",
+                                           "Dark"
+                                           ],
+                            "type": [
+                                     "Grass",
+                                     "Psychic"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Exeggutor",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/103.png",
+                            "egg": "Not in Eggs",
+                            "id": "103",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Exeggcute",
+                                               "num": "102"
+                                               }],
+                            "num": "103",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Ice",
+                                           "Poison",
+                                           "Flying",
+                                           "Bug",
+                                           "Ghost",
+                                           "Dark"
+                                           ],
+                            "type": [
+                                     "Grass",
+                                     "Psychic"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Cubone",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/104.png",
+                            "egg": "5 km",
+                            "id": "104",
+                            "next_evolution": [{
+                                               "name": "Marowak",
+                                               "num": "105"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "104",
+                            "weaknesses": [
+                                           "Water",
+                                           "Grass",
+                                           "Ice"
+                                           ],
+                            "type": [
+                                     "Ground"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Marowak",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/105.png",
+                            "egg": "Not in Eggs",
+                            "id": "105",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Cubone",
+                                               "num": "104"
+                                               }],
+                            "num": "105",
+                            "weaknesses": [
+                                           "Water",
+                                           "Grass",
+                                           "Ice"
+                                           ],
+                            "type": [
+                                     "Ground"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Hitmonlee",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/106.png",
+                            "egg": "10 km",
+                            "id": "106",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "106",
+                            "weaknesses": [
+                                           "Flying",
+                                           "Psychic",
+                                           "Fairy"
+                                           ],
+                            "type": [
+                                     "Fighting"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Hitmonchan",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/107.png",
+                            "egg": "10 km",
+                            "id": "107",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "107",
+                            "weaknesses": [
+                                           "Flying",
+                                           "Psychic",
+                                           "Fairy"
+                                           ],
+                            "type": [
+                                     "Fighting"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Lickitung",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/108.png",
+                            "egg": "5 km",
+                            "id": "108",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "108",
+                            "weaknesses": [
+                                           "Fighting"
+                                           ],
+                            "type": [
+                                     "Normal"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Koffing",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/109.png",
+                            "egg": "5 km",
+                            "id": "109",
+                            "next_evolution": [{
+                                               "name": "Weezing",
+                                               "num": "110"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "109",
+                            "weaknesses": [
+                                           "Ground",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Poison"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Metapod",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/011.png",
+                            "egg": "Not in Eggs",
+                            "id": "11",
+                            "next_evolution": [{
+                                               "name": "Butterfree",
+                                               "num": "012"
+                                               }],
+                            "prev_evolution": [{
+                                               "name": "Caterpie",
+                                               "num": "010"
+                                               }],
+                            "num": "011",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Flying",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Bug"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Weezing",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/110.png",
+                            "egg": "Not in Eggs",
+                            "id": "110",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Koffing",
+                                               "num": "109"
+                                               }],
+                            "num": "110",
+                            "weaknesses": [
+                                           "Ground",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Poison"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Rhyhorn",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/111.png",
+                            "egg": "5 km",
+                            "id": "111",
+                            "next_evolution": [{
+                                               "name": "Rhydon",
+                                               "num": "112"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "111",
+                            "weaknesses": [
+                                           "Water",
+                                           "Grass",
+                                           "Ice",
+                                           "Fighting",
+                                           "Ground",
+                                           "Steel"
+                                           ],
+                            "type": [
+                                     "Ground",
+                                     "Rock"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Rhydon",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/112.png",
+                            "egg": "Not in Eggs",
+                            "id": "112",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Rhyhorn",
+                                               "num": "111"
+                                               }],
+                            "num": "112",
+                            "weaknesses": [
+                                           "Water",
+                                           "Grass",
+                                           "Ice",
+                                           "Fighting",
+                                           "Ground",
+                                           "Steel"
+                                           ],
+                            "type": [
+                                     "Ground",
+                                     "Rock"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Chansey",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/113.png",
+                            "egg": "10 km",
+                            "id": "113",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "113",
+                            "weaknesses": [
+                                           "Fighting"
+                                           ],
+                            "type": [
+                                     "Normal"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Tangela",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/114.png",
+                            "egg": "5 km",
+                            "id": "114",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "114",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Ice",
+                                           "Poison",
+                                           "Flying",
+                                           "Bug"
+                                           ],
+                            "type": [
+                                     "Grass"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Kangaskhan",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/115.png",
+                            "egg": "5 km",
+                            "id": "115",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "115",
+                            "weaknesses": [
+                                           "Fighting"
+                                           ],
+                            "type": [
+                                     "Normal"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Horsea",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/116.png",
+                            "egg": "5 km",
+                            "id": "116",
+                            "next_evolution": [{
+                                               "name": "Seadra",
+                                               "num": "117"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "116",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass"
+                                           ],
+                            "type": [
+                                     "Water"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Seadra",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/117.png",
+                            "egg": "Not in Eggs",
+                            "id": "117",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Horsea",
+                                               "num": "116"
+                                               }],
+                            "num": "117",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass"
+                                           ],
+                            "type": [
+                                     "Water"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Goldeen",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/118.png",
+                            "egg": "5 km",
+                            "id": "118",
+                            "next_evolution": [{
+                                               "name": "Seaking",
+                                               "num": "119"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "118",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass"
+                                           ],
+                            "type": [
+                                     "Water"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Seaking",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/119.png",
+                            "egg": "Not in Eggs",
+                            "id": "119",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Goldeen",
+                                               "num": "118"
+                                               }],
+                            "num": "119",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass"
+                                           ],
+                            "type": [
+                                     "Water"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Butterfree",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/012.png",
+                            "egg": "Not in Eggs",
+                            "id": "12",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Caterpie",
+                                               "num": "010"
+                                               },
+                                               {
+                                               "name": "Metapod",
+                                               "num": "011"
+                                               }
+                                               ],
+                            "num": "012",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Electric",
+                                           "Ice",
+                                           "Flying",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Bug",
+                                     "Flying"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Staryu",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/120.png",
+                            "egg": "5 km",
+                            "id": "120",
+                            "next_evolution": [{
+                                               "name": "Starmie",
+                                               "num": "121"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "120",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass"
+                                           ],
+                            "type": [
+                                     "Water"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Starmie",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/121.png",
+                            "egg": "Not in Eggs",
+                            "id": "121",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Staryu",
+                                               "num": "120"
+                                               }],
+                            "num": "121",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass",
+                                           "Bug",
+                                           "Ghost",
+                                           "Dark"
+                                           ],
+                            "type": [
+                                     "Water",
+                                     "Psychic"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Mr. Mime",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/122.png",
+                            "egg": "10 km",
+                            "id": "122",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "122",
+                            "weaknesses": [
+                                           "Bug",
+                                           "Ghost",
+                                           "Dark"
+                                           ],
+                            "type": [
+                                     "Psychic"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Scyther",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/123.png",
+                            "egg": "10 km",
+                            "id": "123",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "123",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Electric",
+                                           "Ice",
+                                           "Flying",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Bug",
+                                     "Flying"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Jynx",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/124.png",
+                            "egg": "10 km",
+                            "id": "124",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "124",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Bug",
+                                           "Rock",
+                                           "Ghost",
+                                           "Dark",
+                                           "Steel"
+                                           ],
+                            "type": [
+                                     "Ice",
+                                     "Psychic"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Electabuzz",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/125.png",
+                            "egg": "10 km",
+                            "id": "125",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "125",
+                            "weaknesses": [
+                                           "Ground"
+                                           ],
+                            "type": [
+                                     "Electric"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Magmar",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/126.png",
+                            "egg": "10 km",
+                            "id": "126",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "126",
+                            "weaknesses": [
+                                           "Water",
+                                           "Ground",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Fire"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Pinsir",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/127.png",
+                            "egg": "10 km",
+                            "id": "127",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "127",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Flying",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Bug"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Tauros",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/128.png",
+                            "egg": "5 km",
+                            "id": "128",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "128",
+                            "weaknesses": [
+                                           "Fighting"
+                                           ],
+                            "type": [
+                                     "Normal"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Magikarp",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/129.png",
+                            "egg": "2 km",
+                            "id": "129",
+                            "next_evolution": [{
+                                               "name": "Gyarados",
+                                               "num": "130"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "129",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass"
+                                           ],
+                            "type": [
+                                     "Water"
+                                     ],
+                            "candy_count": 400
+                            }, {
+                            "name": "Weedle",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/013.png",
+                            "egg": "2 km",
+                            "id": "13",
+                            "next_evolution": [{
+                                               "name": "Kakuna",
+                                               "num": "014"
+                                               },
+                                               {
+                                               "name": "Beedrill",
+                                               "num": "015"
+                                               }
+                                               ],
+                            "prev_evolution": null,
+                            "num": "013",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Flying",
+                                           "Psychic",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Bug",
+                                     "Poison"
+                                     ],
+                            "candy_count": 12
+                            }, {
+                            "name": "Gyarados",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/130.png",
+                            "egg": "Not in Eggs",
+                            "id": "130",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Magikarp",
+                                               "num": "129"
+                                               }],
+                            "num": "130",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Water",
+                                     "Flying"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Lapras",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/131.png",
+                            "egg": "10 km",
+                            "id": "131",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "131",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass",
+                                           "Fighting",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Water",
+                                     "Ice"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Ditto",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/132.png",
+                            "egg": "Not in Eggs",
+                            "id": "132",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "132",
+                            "weaknesses": [
+                                           "Fighting"
+                                           ],
+                            "type": [
+                                     "Normal"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Eevee",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/133.png",
+                            "egg": "10 km",
+                            "id": "133",
+                            "next_evolution": [{
+                                               "name": "Vaporeon",
+                                               "num": "134"
+                                               },
+                                               {
+                                               "name": "Jolteon",
+                                               "num": "135"
+                                               },
+                                               {
+                                               "name": "Flareon",
+                                               "num": "136"
+                                               }
+                                               ],
+                            "prev_evolution": null,
+                            "num": "133",
+                            "weaknesses": [
+                                           "Fighting"
+                                           ],
+                            "type": [
+                                     "Normal"
+                                     ],
+                            "candy_count": 25
+                            }, {
+                            "name": "Vaporeon",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/134.png",
+                            "egg": "Not in Eggs",
+                            "id": "134",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Eevee",
+                                               "num": "133"
+                                               }],
+                            "num": "134",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass"
+                                           ],
+                            "type": [
+                                     "Water"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Jolteon",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/135.png",
+                            "egg": "Not in Eggs",
+                            "id": "135",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Eevee",
+                                               "num": "133"
+                                               }],
+                            "num": "135",
+                            "weaknesses": [
+                                           "Ground"
+                                           ],
+                            "type": [
+                                     "Electric"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Flareon",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/136.png",
+                            "egg": "Not in Eggs",
+                            "id": "136",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Eevee",
+                                               "num": "133"
+                                               }],
+                            "num": "136",
+                            "weaknesses": [
+                                           "Water",
+                                           "Ground",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Fire"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Porygon",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/137.png",
+                            "egg": "5 km",
+                            "id": "137",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "137",
+                            "weaknesses": [
+                                           "Fighting"
+                                           ],
+                            "type": [
+                                     "Normal"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Omanyte",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/138.png",
+                            "egg": "10 km",
+                            "id": "138",
+                            "next_evolution": [{
+                                               "name": "Omastar",
+                                               "num": "139"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "138",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass",
+                                           "Fighting",
+                                           "Ground"
+                                           ],
+                            "type": [
+                                     "Rock",
+                                     "Water"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Omastar",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/139.png",
+                            "egg": "Omanyte Candy",
+                            "id": "139",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Omanyte",
+                                               "num": "138"
+                                               }],
+                            "num": "139",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass",
+                                           "Fighting",
+                                           "Ground"
+                                           ],
+                            "type": [
+                                     "Rock",
+                                     "Water"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Kakuna",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/014.png",
+                            "egg": "Not in Eggs",
+                            "id": "14",
+                            "next_evolution": [{
+                                               "name": "Beedrill",
+                                               "num": "015"
+                                               }],
+                            "prev_evolution": [{
+                                               "name": "Weedle",
+                                               "num": "013"
+                                               }],
+                            "num": "014",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Flying",
+                                           "Psychic",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Bug",
+                                     "Poison"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Kabuto",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/140.png",
+                            "egg": "10 km",
+                            "id": "140",
+                            "next_evolution": [{
+                                               "name": "Kabutops",
+                                               "num": "141"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "140",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass",
+                                           "Fighting",
+                                           "Ground"
+                                           ],
+                            "type": [
+                                     "Rock",
+                                     "Water"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Kabutops",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/141.png",
+                            "egg": "Not in Eggs",
+                            "id": "141",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Kabuto",
+                                               "num": "140"
+                                               }],
+                            "num": "141",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass",
+                                           "Fighting",
+                                           "Ground"
+                                           ],
+                            "type": [
+                                     "Rock",
+                                     "Water"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Aerodactyl",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/142.png",
+                            "egg": "10 km",
+                            "id": "142",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "142",
+                            "weaknesses": [
+                                           "Water",
+                                           "Electric",
+                                           "Ice",
+                                           "Rock",
+                                           "Steel"
+                                           ],
+                            "type": [
+                                     "Rock",
+                                     "Flying"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Snorlax",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/143.png",
+                            "egg": "10 km",
+                            "id": "143",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "143",
+                            "weaknesses": [
+                                           "Fighting"
+                                           ],
+                            "type": [
+                                     "Normal"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Articuno",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/144.png",
+                            "egg": "Not in Eggs",
+                            "id": "144",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "144",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Electric",
+                                           "Rock",
+                                           "Steel"
+                                           ],
+                            "type": [
+                                     "Ice",
+                                     "Flying"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Zapdos",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/145.png",
+                            "egg": "Not in Eggs",
+                            "id": "145",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "145",
+                            "weaknesses": [
+                                           "Ice",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Electric",
+                                     "Flying"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Moltres",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/146.png",
+                            "egg": "Not in Eggs",
+                            "id": "146",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "146",
+                            "weaknesses": [
+                                           "Water",
+                                           "Electric",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Fire",
+                                     "Flying"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Dratini",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/147.png",
+                            "egg": "10 km",
+                            "id": "147",
+                            "next_evolution": [{
+                                               "name": "Dragonair",
+                                               "num": "148"
+                                               },
+                                               {
+                                               "name": "Dragonite",
+                                               "num": "149"
+                                               }
+                                               ],
+                            "prev_evolution": null,
+                            "num": "147",
+                            "weaknesses": [
+                                           "Ice",
+                                           "Dragon",
+                                           "Fairy"
+                                           ],
+                            "type": [
+                                     "Dragon"
+                                     ],
+                            "candy_count": 25
+                            }, {
+                            "name": "Dragonair",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/148.png",
+                            "egg": "Not in Eggs",
+                            "id": "148",
+                            "next_evolution": [{
+                                               "name": "Dragonite",
+                                               "num": "149"
+                                               }],
+                            "prev_evolution": [{
+                                               "name": "Dratini",
+                                               "num": "147"
+                                               }],
+                            "num": "148",
+                            "weaknesses": [
+                                           "Ice",
+                                           "Dragon",
+                                           "Fairy"
+                                           ],
+                            "type": [
+                                     "Dragon"
+                                     ],
+                            "candy_count": 100
+                            }, {
+                            "name": "Dragonite",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/149.png",
+                            "egg": "Not in Eggs",
+                            "id": "149",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Dratini",
+                                               "num": "147"
+                                               },
+                                               {
+                                               "name": "Dragonair",
+                                               "num": "148"
+                                               }
+                                               ],
+                            "num": "149",
+                            "weaknesses": [
+                                           "Ice",
+                                           "Rock",
+                                           "Dragon",
+                                           "Fairy"
+                                           ],
+                            "type": [
+                                     "Dragon",
+                                     "Flying"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Beedrill",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/015.png",
+                            "egg": "Not in Eggs",
+                            "id": "15",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Weedle",
+                                               "num": "013"
+                                               },
+                                               {
+                                               "name": "Kakuna",
+                                               "num": "014"
+                                               }
+                                               ],
+                            "num": "015",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Flying",
+                                           "Psychic",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Bug",
+                                     "Poison"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Mewtwo",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/150.png",
+                            "egg": "Not in Eggs",
+                            "id": "150",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "150",
+                            "weaknesses": [
+                                           "Bug",
+                                           "Ghost",
+                                           "Dark"
+                                           ],
+                            "type": [
+                                     "Psychic"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Mew",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/151.png",
+                            "egg": "Not in Eggs",
+                            "id": "151",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "151",
+                            "weaknesses": [
+                                           "Bug",
+                                           "Ghost",
+                                           "Dark"
+                                           ],
+                            "type": [
+                                     "Psychic"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Pidgey",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/016.png",
+                            "egg": "2 km",
+                            "id": "16",
+                            "next_evolution": [{
+                                               "name": "Pidgeotto",
+                                               "num": "017"
+                                               },
+                                               {
+                                               "name": "Pidgeot",
+                                               "num": "018"
+                                               }
+                                               ],
+                            "prev_evolution": null,
+                            "num": "016",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Normal",
+                                     "Flying"
+                                     ],
+                            "candy_count": 12
+                            }, {
+                            "name": "Pidgeotto",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/017.png",
+                            "egg": "Not in Eggs",
+                            "id": "17",
+                            "next_evolution": [{
+                                               "name": "Pidgeot",
+                                               "num": "018"
+                                               }],
+                            "prev_evolution": [{
+                                               "name": "Pidgey",
+                                               "num": "016"
+                                               }],
+                            "num": "017",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Normal",
+                                     "Flying"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Pidgeot",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/018.png",
+                            "egg": "Not in Eggs",
+                            "id": "18",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Pidgey",
+                                               "num": "016"
+                                               },
+                                               {
+                                               "name": "Pidgeotto",
+                                               "num": "017"
+                                               }
+                                               ],
+                            "num": "018",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Normal",
+                                     "Flying"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Rattata",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/019.png",
+                            "egg": "2 km",
+                            "id": "19",
+                            "next_evolution": [{
+                                               "name": "Raticate",
+                                               "num": "020"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "019",
+                            "weaknesses": [
+                                           "Fighting"
+                                           ],
+                            "type": [
+                                     "Normal"
+                                     ],
+                            "candy_count": 25
+                            }, {
+                            "name": "Ivysaur",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/002.png",
+                            "egg": "Not in Eggs",
+                            "id": "2",
+                            "next_evolution": [{
+                                               "name": "Venusaur",
+                                               "num": "003"
+                                               }],
+                            "prev_evolution": [{
+                                               "name": "Bulbasaur",
+                                               "num": "001"
+                                               }],
+                            "num": "002",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Ice",
+                                           "Flying",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Grass",
+                                     "Poison"
+                                     ],
+                            "candy_count": 100
+                            }, {
+                            "name": "Raticate",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/020.png",
+                            "egg": "Not in Eggs",
+                            "id": "20",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Rattata",
+                                               "num": "019"
+                                               }],
+                            "num": "020",
+                            "weaknesses": [
+                                           "Fighting"
+                                           ],
+                            "type": [
+                                     "Normal"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Spearow",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/021.png",
+                            "egg": "2 km",
+                            "id": "21",
+                            "next_evolution": [{
+                                               "name": "Fearow",
+                                               "num": "022"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "021",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Normal",
+                                     "Flying"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Fearow",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/022.png",
+                            "egg": "Not in Eggs",
+                            "id": "22",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Spearow",
+                                               "num": "021"
+                                               }],
+                            "num": "022",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Normal",
+                                     "Flying"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Ekans",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/023.png",
+                            "egg": "5 km",
+                            "id": "23",
+                            "next_evolution": [{
+                                               "name": "Arbok",
+                                               "num": "024"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "023",
+                            "weaknesses": [
+                                           "Ground",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Poison"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Arbok",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/024.png",
+                            "egg": "Not in Eggs",
+                            "id": "24",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Ekans",
+                                               "num": "023"
+                                               }],
+                            "num": "024",
+                            "weaknesses": [
+                                           "Ground",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Poison"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Pikachu",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/025.png",
+                            "egg": "2 km",
+                            "id": "25",
+                            "next_evolution": [{
+                                               "name": "Raichu",
+                                               "num": "026"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "025",
+                            "weaknesses": [
+                                           "Ground"
+                                           ],
+                            "type": [
+                                     "Electric"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Raichu",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/026.png",
+                            "egg": "Not in Eggs",
+                            "id": "26",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Pikachu",
+                                               "num": "025"
+                                               }],
+                            "num": "026",
+                            "weaknesses": [
+                                           "Ground"
+                                           ],
+                            "type": [
+                                     "Electric"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Sandshrew",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/027.png",
+                            "egg": "5 km",
+                            "id": "27",
+                            "next_evolution": [{
+                                               "name": "Sandslash",
+                                               "num": "028"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "027",
+                            "weaknesses": [
+                                           "Water",
+                                           "Grass",
+                                           "Ice"
+                                           ],
+                            "type": [
+                                     "Ground"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Sandslash",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/028.png",
+                            "egg": "Not in Eggs",
+                            "id": "28",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Sandshrew",
+                                               "num": "027"
+                                               }],
+                            "num": "028",
+                            "weaknesses": [
+                                           "Water",
+                                           "Grass",
+                                           "Ice"
+                                           ],
+                            "type": [
+                                     "Ground"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Nidoran ♀ (Female)",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/029.png",
+                            "egg": "5 km",
+                            "id": "29",
+                            "next_evolution": [{
+                                               "name": "Nidorina",
+                                               "num": "030"
+                                               },
+                                               {
+                                               "name": "Nidoqueen",
+                                               "num": "031"
+                                               }
+                                               ],
+                            "prev_evolution": null,
+                            "num": "029",
+                            "weaknesses": [
+                                           "Ground",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Poison"
+                                     ],
+                            "candy_count": 25
+                            }, {
+                            "name": "Venusaur",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/003.png",
+                            "egg": "Not in Eggs",
+                            "id": "3",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Bulbasaur",
+                                               "num": "001"
+                                               },
+                                               {
+                                               "name": "Ivysaur",
+                                               "num": "002"
+                                               }
+                                               ],
+                            "num": "003",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Ice",
+                                           "Flying",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Grass",
+                                     "Poison"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Nidorina",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/030.png",
+                            "egg": "Not in Eggs",
+                            "id": "30",
+                            "next_evolution": [{
+                                               "name": "Nidoqueen",
+                                               "num": "031"
+                                               }],
+                            "prev_evolution": [{
+                                               "name": "Nidoran(Female)",
+                                               "num": "029"
+                                               }],
+                            "num": "030",
+                            "weaknesses": [
+                                           "Ground",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Poison"
+                                     ],
+                            "candy_count": 100
+                            }, {
+                            "name": "Nidoqueen",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/031.png",
+                            "egg": "Not in Eggs",
+                            "id": "31",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Nidoran(Female)",
+                                               "num": "029"
+                                               },
+                                               {
+                                               "name": "Nidorina",
+                                               "num": "030"
+                                               }
+                                               ],
+                            "num": "031",
+                            "weaknesses": [
+                                           "Water",
+                                           "Ice",
+                                           "Ground",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Poison",
+                                     "Ground"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Nidoran ♂ (Male)",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/032.png",
+                            "egg": "5 km",
+                            "id": "32",
+                            "next_evolution": [{
+                                               "name": "Nidorino",
+                                               "num": "033"
+                                               },
+                                               {
+                                               "name": "Nidoking",
+                                               "num": "034"
+                                               }
+                                               ],
+                            "prev_evolution": null,
+                            "num": "032",
+                            "weaknesses": [
+                                           "Ground",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Poison"
+                                     ],
+                            "candy_count": 25
+                            }, {
+                            "name": "Nidorino",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/033.png",
+                            "egg": "Not in Eggs",
+                            "id": "33",
+                            "next_evolution": [{
+                                               "name": "Nidoking",
+                                               "num": "034"
+                                               }],
+                            "prev_evolution": [{
+                                               "name": "Nidoran(Male)",
+                                               "num": "032"
+                                               }],
+                            "num": "033",
+                            "weaknesses": [
+                                           "Ground",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Poison"
+                                     ],
+                            "candy_count": 100
+                            }, {
+                            "name": "Nidoking",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/034.png",
+                            "egg": "Not in Eggs",
+                            "id": "34",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Nidoran(Male)",
+                                               "num": "032"
+                                               },
+                                               {
+                                               "name": "Nidorino",
+                                               "num": "033"
+                                               }
+                                               ],
+                            "num": "034",
+                            "weaknesses": [
+                                           "Water",
+                                           "Ice",
+                                           "Ground",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Poison",
+                                     "Ground"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Clefairy",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/035.png",
+                            "egg": "2 km",
+                            "id": "35",
+                            "next_evolution": [{
+                                               "name": "Clefable",
+                                               "num": "036"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "035",
+                            "weaknesses": [
+                                           "Fighting"
+                                           ],
+                            "type": [
+                                     "Normal"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Clefable",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/036.png",
+                            "egg": "Not in Eggs",
+                            "id": "36",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Clefairy",
+                                               "num": "035"
+                                               }],
+                            "num": "036",
+                            "weaknesses": [
+                                           "Fighting"
+                                           ],
+                            "type": [
+                                     "Normal"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Vulpix",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/037.png",
+                            "egg": "5 km",
+                            "id": "37",
+                            "next_evolution": [{
+                                               "name": "Ninetales",
+                                               "num": "038"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "037",
+                            "weaknesses": [
+                                           "Water",
+                                           "Ground",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Fire"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Ninetales",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/038.png",
+                            "egg": "Not in Eggs",
+                            "id": "38",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Vulpix",
+                                               "num": "037"
+                                               }],
+                            "num": "038",
+                            "weaknesses": [
+                                           "Water",
+                                           "Ground",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Fire"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Jigglypuff",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/039.png",
+                            "egg": "2 km",
+                            "id": "39",
+                            "next_evolution": [{
+                                               "name": "Wigglytuff",
+                                               "num": "040"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "039",
+                            "weaknesses": [
+                                           "Fighting"
+                                           ],
+                            "type": [
+                                     "Normal"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Charmander",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/004.png",
+                            "egg": "2 km",
+                            "id": "4",
+                            "next_evolution": [{
+                                               "name": "Charmeleon",
+                                               "num": "005"
+                                               },
+                                               {
+                                               "name": "Charizard",
+                                               "num": "006"
+                                               }
+                                               ],
+                            "prev_evolution": null,
+                            "num": "004",
+                            "weaknesses": [
+                                           "Water",
+                                           "Ground",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Fire"
+                                     ],
+                            "candy_count": 25
+                            }, {
+                            "name": "Wigglytuff",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/040.png",
+                            "egg": "Not in Eggs",
+                            "id": "40",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Jigglypuff",
+                                               "num": "039"
+                                               }],
+                            "num": "040",
+                            "weaknesses": [
+                                           "Fighting"
+                                           ],
+                            "type": [
+                                     "Normal"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Zubat",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/041.png",
+                            "egg": "2 km",
+                            "id": "41",
+                            "next_evolution": [{
+                                               "name": "Golbat",
+                                               "num": "042"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "041",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Ice",
+                                           "Psychic",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Poison",
+                                     "Flying"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Golbat",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/042.png",
+                            "egg": "Not in Eggs",
+                            "id": "42",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Zubat",
+                                               "num": "041"
+                                               }],
+                            "num": "042",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Ice",
+                                           "Psychic",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Poison",
+                                     "Flying"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Oddish",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/043.png",
+                            "egg": "5 km",
+                            "id": "43",
+                            "next_evolution": [{
+                                               "name": "Gloom",
+                                               "num": "044"
+                                               },
+                                               {
+                                               "name": "Vileplume",
+                                               "num": "045"
+                                               }
+                                               ],
+                            "prev_evolution": null,
+                            "num": "043",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Ice",
+                                           "Flying",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Grass",
+                                     "Poison"
+                                     ],
+                            "candy_count": 25
+                            }, {
+                            "name": "Gloom",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/044.png",
+                            "egg": "Not in Eggs",
+                            "id": "44",
+                            "next_evolution": [{
+                                               "name": "Vileplume",
+                                               "num": "045"
+                                               }],
+                            "prev_evolution": [{
+                                               "name": "Oddish",
+                                               "num": "043"
+                                               }],
+                            "num": "044",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Ice",
+                                           "Flying",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Grass",
+                                     "Poison"
+                                     ],
+                            "candy_count": 100
+                            }, {
+                            "name": "Vileplume",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/045.png",
+                            "egg": "Not in Eggs",
+                            "id": "45",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Oddish",
+                                               "num": "043"
+                                               },
+                                               {
+                                               "name": "Gloom",
+                                               "num": "044"
+                                               }
+                                               ],
+                            "num": "045",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Ice",
+                                           "Flying",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Grass",
+                                     "Poison"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Paras",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/046.png",
+                            "egg": "5 km",
+                            "id": "46",
+                            "next_evolution": [{
+                                               "name": "Parasect",
+                                               "num": "047"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "046",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Ice",
+                                           "Poison",
+                                           "Flying",
+                                           "Bug",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Bug",
+                                     "Grass"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Parasect",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/047.png",
+                            "egg": "Not in Eggs",
+                            "id": "47",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Paras",
+                                               "num": "046"
+                                               }],
+                            "num": "047",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Ice",
+                                           "Poison",
+                                           "Flying",
+                                           "Bug",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Bug",
+                                     "Grass"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Venonat",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/048.png",
+                            "egg": "5 km",
+                            "id": "48",
+                            "next_evolution": [{
+                                               "name": "Venomoth",
+                                               "num": "049"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "048",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Flying",
+                                           "Psychic",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Bug",
+                                     "Poison"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Venomoth",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/049.png",
+                            "egg": "Not in Eggs",
+                            "id": "49",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Venonat",
+                                               "num": "048"
+                                               }],
+                            "num": "049",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Flying",
+                                           "Psychic",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Bug",
+                                     "Poison"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Charmeleon",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/005.png",
+                            "egg": "Not in Eggs",
+                            "id": "5",
+                            "next_evolution": [{
+                                               "name": "Charizard",
+                                               "num": "006"
+                                               }],
+                            "prev_evolution": [{
+                                               "name": "Charmander",
+                                               "num": "004"
+                                               }],
+                            "num": "005",
+                            "weaknesses": [
+                                           "Water",
+                                           "Ground",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Fire"
+                                     ],
+                            "candy_count": 100
+                            }, {
+                            "name": "Diglett",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/050.png",
+                            "egg": "5 km",
+                            "id": "50",
+                            "next_evolution": [{
+                                               "name": "Dugtrio",
+                                               "num": "051"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "050",
+                            "weaknesses": [
+                                           "Water",
+                                           "Grass",
+                                           "Ice"
+                                           ],
+                            "type": [
+                                     "Ground"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Dugtrio",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/051.png",
+                            "egg": "Not in Eggs",
+                            "id": "51",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Diglett",
+                                               "num": "050"
+                                               }],
+                            "num": "051",
+                            "weaknesses": [
+                                           "Water",
+                                           "Grass",
+                                           "Ice"
+                                           ],
+                            "type": [
+                                     "Ground"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Meowth",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/052.png",
+                            "egg": "5 km",
+                            "id": "52",
+                            "next_evolution": [{
+                                               "name": "Persian",
+                                               "num": "053"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "052",
+                            "weaknesses": [
+                                           "Fighting"
+                                           ],
+                            "type": [
+                                     "Normal"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Persian",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/053.png",
+                            "egg": "Not in Eggs",
+                            "id": "53",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Meowth",
+                                               "num": "052"
+                                               }],
+                            "num": "053",
+                            "weaknesses": [
+                                           "Fighting"
+                                           ],
+                            "type": [
+                                     "Normal"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Psyduck",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/054.png",
+                            "egg": "5 km",
+                            "id": "54",
+                            "next_evolution": [{
+                                               "name": "Golduck",
+                                               "num": "055"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "054",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass"
+                                           ],
+                            "type": [
+                                     "Water"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Golduck",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/055.png",
+                            "egg": "Not in Eggs",
+                            "id": "55",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Psyduck",
+                                               "num": "054"
+                                               }],
+                            "num": "055",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass"
+                                           ],
+                            "type": [
+                                     "Water"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Mankey",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/056.png",
+                            "egg": "5 km",
+                            "id": "56",
+                            "next_evolution": [{
+                                               "name": "Primeape",
+                                               "num": "057"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "056",
+                            "weaknesses": [
+                                           "Flying",
+                                           "Psychic",
+                                           "Fairy"
+                                           ],
+                            "type": [
+                                     "Fighting"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Primeape",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/057.png",
+                            "egg": "Not in Eggs",
+                            "id": "57",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Mankey",
+                                               "num": "056"
+                                               }],
+                            "num": "057",
+                            "weaknesses": [
+                                           "Flying",
+                                           "Psychic",
+                                           "Fairy"
+                                           ],
+                            "type": [
+                                     "Fighting"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Growlithe",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/058.png",
+                            "egg": "5 km",
+                            "id": "58",
+                            "next_evolution": [{
+                                               "name": "Arcanine",
+                                               "num": "059"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "058",
+                            "weaknesses": [
+                                           "Water",
+                                           "Ground",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Fire"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Arcanine",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/059.png",
+                            "egg": "Not in Eggs",
+                            "id": "59",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Growlithe",
+                                               "num": "058"
+                                               }],
+                            "num": "059",
+                            "weaknesses": [
+                                           "Water",
+                                           "Ground",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Fire"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Charizard",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/006.png",
+                            "egg": "Not in Eggs",
+                            "id": "6",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Charmander",
+                                               "num": "004"
+                                               },
+                                               {
+                                               "name": "Charmeleon",
+                                               "num": "005"
+                                               }
+                                               ],
+                            "num": "006",
+                            "weaknesses": [
+                                           "Water",
+                                           "Electric",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Fire",
+                                     "Flying"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Poliwag",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/060.png",
+                            "egg": "5 km",
+                            "id": "60",
+                            "next_evolution": [{
+                                               "name": "Poliwhirl",
+                                               "num": "061"
+                                               },
+                                               {
+                                               "name": "Poliwrath",
+                                               "num": "062"
+                                               }
+                                               ],
+                            "prev_evolution": null,
+                            "num": "060",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass"
+                                           ],
+                            "type": [
+                                     "Water"
+                                     ],
+                            "candy_count": 25
+                            }, {
+                            "name": "Poliwhirl",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/061.png",
+                            "egg": "Not in Eggs",
+                            "id": "61",
+                            "next_evolution": [{
+                                               "name": "Poliwrath",
+                                               "num": "062"
+                                               }],
+                            "prev_evolution": [{
+                                               "name": "Poliwag",
+                                               "num": "060"
+                                               }],
+                            "num": "061",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass"
+                                           ],
+                            "type": [
+                                     "Water"
+                                     ],
+                            "candy_count": 100
+                            }, {
+                            "name": "Poliwrath",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/062.png",
+                            "egg": "Not in Eggs",
+                            "id": "62",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Poliwag",
+                                               "num": "060"
+                                               },
+                                               {
+                                               "name": "Poliwhirl",
+                                               "num": "061"
+                                               }
+                                               ],
+                            "num": "062",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass",
+                                           "Flying",
+                                           "Psychic",
+                                           "Fairy"
+                                           ],
+                            "type": [
+                                     "Water",
+                                     "Fighting"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Abra",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/063.png",
+                            "egg": "5 km",
+                            "id": "63",
+                            "next_evolution": [{
+                                               "name": "Kadabra",
+                                               "num": "064"
+                                               },
+                                               {
+                                               "name": "Alakazam",
+                                               "num": "065"
+                                               }
+                                               ],
+                            "prev_evolution": null,
+                            "num": "063",
+                            "weaknesses": [
+                                           "Bug",
+                                           "Ghost",
+                                           "Dark"
+                                           ],
+                            "type": [
+                                     "Psychic"
+                                     ],
+                            "candy_count": 25
+                            }, {
+                            "name": "Kadabra",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/064.png",
+                            "egg": "Not in Eggs",
+                            "id": "64",
+                            "next_evolution": [{
+                                               "name": "Alakazam",
+                                               "num": "065"
+                                               }],
+                            "prev_evolution": [{
+                                               "name": "Abra",
+                                               "num": "063"
+                                               }],
+                            "num": "064",
+                            "weaknesses": [
+                                           "Bug",
+                                           "Ghost",
+                                           "Dark"
+                                           ],
+                            "type": [
+                                     "Psychic"
+                                     ],
+                            "candy_count": 100
+                            }, {
+                            "name": "Alakazam",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/065.png",
+                            "egg": "Not in Eggs",
+                            "id": "65",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Abra",
+                                               "num": "063"
+                                               },
+                                               {
+                                               "name": "Kadabra",
+                                               "num": "064"
+                                               }
+                                               ],
+                            "num": "065",
+                            "weaknesses": [
+                                           "Bug",
+                                           "Ghost",
+                                           "Dark"
+                                           ],
+                            "type": [
+                                     "Psychic"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Machop",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/066.png",
+                            "egg": "5 km",
+                            "id": "66",
+                            "next_evolution": [{
+                                               "name": "Machoke",
+                                               "num": "067"
+                                               },
+                                               {
+                                               "name": "Machamp",
+                                               "num": "068"
+                                               }
+                                               ],
+                            "prev_evolution": null,
+                            "num": "066",
+                            "weaknesses": [
+                                           "Flying",
+                                           "Psychic",
+                                           "Fairy"
+                                           ],
+                            "type": [
+                                     "Fighting"
+                                     ],
+                            "candy_count": 25
+                            }, {
+                            "name": "Machoke",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/067.png",
+                            "egg": "Not in Eggs",
+                            "id": "67",
+                            "next_evolution": [{
+                                               "name": "Machamp",
+                                               "num": "068"
+                                               }],
+                            "prev_evolution": [{
+                                               "name": "Machop",
+                                               "num": "066"
+                                               }],
+                            "num": "067",
+                            "weaknesses": [
+                                           "Flying",
+                                           "Psychic",
+                                           "Fairy"
+                                           ],
+                            "type": [
+                                     "Fighting"
+                                     ],
+                            "candy_count": 100
+                            }, {
+                            "name": "Machamp",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/068.png",
+                            "egg": "Not in Eggs",
+                            "id": "68",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Machop",
+                                               "num": "066"
+                                               },
+                                               {
+                                               "name": "Machoke",
+                                               "num": "067"
+                                               }
+                                               ],
+                            "num": "068",
+                            "weaknesses": [
+                                           "Flying",
+                                           "Psychic",
+                                           "Fairy"
+                                           ],
+                            "type": [
+                                     "Fighting"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Bellsprout",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/069.png",
+                            "egg": "5 km",
+                            "id": "69",
+                            "next_evolution": [{
+                                               "name": "Weepinbell",
+                                               "num": "070"
+                                               },
+                                               {
+                                               "name": "Victreebel",
+                                               "num": "071"
+                                               }
+                                               ],
+                            "prev_evolution": null,
+                            "num": "069",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Ice",
+                                           "Flying",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Grass",
+                                     "Poison"
+                                     ],
+                            "candy_count": 25
+                            }, {
+                            "name": "Squirtle",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/007.png",
+                            "egg": "2 km",
+                            "id": "7",
+                            "next_evolution": [{
+                                               "name": "Wartortle",
+                                               "num": "008"
+                                               },
+                                               {
+                                               "name": "Blastoise",
+                                               "num": "009"
+                                               }
+                                               ],
+                            "prev_evolution": null,
+                            "num": "007",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass"
+                                           ],
+                            "type": [
+                                     "Water"
+                                     ],
+                            "candy_count": 25
+                            }, {
+                            "name": "Weepinbell",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/070.png",
+                            "egg": "Not in Eggs",
+                            "id": "70",
+                            "next_evolution": [{
+                                               "name": "Victreebel",
+                                               "num": "071"
+                                               }],
+                            "prev_evolution": [{
+                                               "name": "Bellsprout",
+                                               "num": "069"
+                                               }],
+                            "num": "070",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Ice",
+                                           "Flying",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Grass",
+                                     "Poison"
+                                     ],
+                            "candy_count": 100
+                            }, {
+                            "name": "Victreebel",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/071.png",
+                            "egg": "Not in Eggs",
+                            "id": "71",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Bellsprout",
+                                               "num": "069"
+                                               },
+                                               {
+                                               "name": "Weepinbell",
+                                               "num": "070"
+                                               }
+                                               ],
+                            "num": "071",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Ice",
+                                           "Flying",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Grass",
+                                     "Poison"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Tentacool",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/072.png",
+                            "egg": "5 km",
+                            "id": "72",
+                            "next_evolution": [{
+                                               "name": "Tentacruel",
+                                               "num": "073"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "072",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Ground",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Water",
+                                     "Poison"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Tentacruel",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/073.png",
+                            "egg": "Not in Eggs",
+                            "id": "73",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Tentacool",
+                                               "num": "072"
+                                               }],
+                            "num": "073",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Ground",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Water",
+                                     "Poison"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Geodude",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/074.png",
+                            "egg": "2 km",
+                            "id": "74",
+                            "next_evolution": [{
+                                               "name": "Graveler",
+                                               "num": "075"
+                                               },
+                                               {
+                                               "name": "Golem",
+                                               "num": "076"
+                                               }
+                                               ],
+                            "prev_evolution": null,
+                            "num": "074",
+                            "weaknesses": [
+                                           "Water",
+                                           "Grass",
+                                           "Ice",
+                                           "Fighting",
+                                           "Ground",
+                                           "Steel"
+                                           ],
+                            "type": [
+                                     "Rock",
+                                     "Ground"
+                                     ],
+                            "candy_count": 25
+                            }, {
+                            "name": "Graveler",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/075.png",
+                            "egg": "Not in Eggs",
+                            "id": "75",
+                            "next_evolution": [{
+                                               "name": "Golem",
+                                               "num": "076"
+                                               }],
+                            "prev_evolution": [{
+                                               "name": "Geodude",
+                                               "num": "074"
+                                               }],
+                            "num": "075",
+                            "weaknesses": [
+                                           "Water",
+                                           "Grass",
+                                           "Ice",
+                                           "Fighting",
+                                           "Ground",
+                                           "Steel"
+                                           ],
+                            "type": [
+                                     "Rock",
+                                     "Ground"
+                                     ],
+                            "candy_count": 100
+                            }, {
+                            "name": "Golem",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/076.png",
+                            "egg": "Not in Eggs",
+                            "id": "76",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Geodude",
+                                               "num": "074"
+                                               },
+                                               {
+                                               "name": "Graveler",
+                                               "num": "075"
+                                               }
+                                               ],
+                            "num": "076",
+                            "weaknesses": [
+                                           "Water",
+                                           "Grass",
+                                           "Ice",
+                                           "Fighting",
+                                           "Ground",
+                                           "Steel"
+                                           ],
+                            "type": [
+                                     "Rock",
+                                     "Ground"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Ponyta",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/077.png",
+                            "egg": "5 km",
+                            "id": "77",
+                            "next_evolution": [{
+                                               "name": "Rapidash",
+                                               "num": "078"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "077",
+                            "weaknesses": [
+                                           "Water",
+                                           "Ground",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Fire"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Rapidash",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/078.png",
+                            "egg": "Not in Eggs",
+                            "id": "78",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Ponyta",
+                                               "num": "077"
+                                               }],
+                            "num": "078",
+                            "weaknesses": [
+                                           "Water",
+                                           "Ground",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Fire"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Slowpoke",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/079.png",
+                            "egg": "5 km",
+                            "id": "79",
+                            "next_evolution": [{
+                                               "name": "Slowbro",
+                                               "num": "080"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "079",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass",
+                                           "Bug",
+                                           "Ghost",
+                                           "Dark"
+                                           ],
+                            "type": [
+                                     "Water",
+                                     "Psychic"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Wartortle",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/008.png",
+                            "egg": "Not in Eggs",
+                            "id": "8",
+                            "next_evolution": [{
+                                               "name": "Blastoise",
+                                               "num": "009"
+                                               }],
+                            "prev_evolution": [{
+                                               "name": "Squirtle",
+                                               "num": "007"
+                                               }],
+                            "num": "008",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass"
+                                           ],
+                            "type": [
+                                     "Water"
+                                     ],
+                            "candy_count": 100
+                            }, {
+                            "name": "Slowbro",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/080.png",
+                            "egg": "Not in Eggs",
+                            "id": "80",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Slowpoke",
+                                               "num": "079"
+                                               }],
+                            "num": "080",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass",
+                                           "Bug",
+                                           "Ghost",
+                                           "Dark"
+                                           ],
+                            "type": [
+                                     "Water",
+                                     "Psychic"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Magnemite",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/081.png",
+                            "egg": "5 km",
+                            "id": "81",
+                            "next_evolution": [{
+                                               "name": "Magneton",
+                                               "num": "082"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "081",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Water",
+                                           "Ground"
+                                           ],
+                            "type": [
+                                     "Electric"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Magneton",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/082.png",
+                            "egg": "Not in Eggs",
+                            "id": "82",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Magnemite",
+                                               "num": "081"
+                                               }],
+                            "num": "082",
+                            "weaknesses": [
+                                           "Fire",
+                                           "Water",
+                                           "Ground"
+                                           ],
+                            "type": [
+                                     "Electric"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Farfetch'd",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/083.png",
+                            "egg": "5 km",
+                            "id": "83",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "083",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Normal",
+                                     "Flying"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Doduo",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/084.png",
+                            "egg": "5 km",
+                            "id": "84",
+                            "next_evolution": [{
+                                               "name": "Dodrio",
+                                               "num": "085"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "084",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Normal",
+                                     "Flying"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Dodrio",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/085.png",
+                            "egg": "Not in Eggs",
+                            "id": "85",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Doduo",
+                                               "num": "084"
+                                               }],
+                            "num": "085",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Normal",
+                                     "Flying"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Seel",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/086.png",
+                            "egg": "5 km",
+                            "id": "86",
+                            "next_evolution": [{
+                                               "name": "Dewgong",
+                                               "num": "087"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "086",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass"
+                                           ],
+                            "type": [
+                                     "Water"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Dewgong",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/087.png",
+                            "egg": "Not in Eggs",
+                            "id": "87",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Seel",
+                                               "num": "086"
+                                               }],
+                            "num": "087",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass",
+                                           "Fighting",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Water",
+                                     "Ice"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Grimer",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/088.png",
+                            "egg": "5 km",
+                            "id": "88",
+                            "next_evolution": [{
+                                               "name": "Muk",
+                                               "num": "089"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "088",
+                            "weaknesses": [
+                                           "Ground",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Poison"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Muk",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/089.png",
+                            "egg": "Not in Eggs",
+                            "id": "89",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Grimer",
+                                               "num": "088"
+                                               }],
+                            "num": "089",
+                            "weaknesses": [
+                                           "Ground",
+                                           "Psychic"
+                                           ],
+                            "type": [
+                                     "Poison"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Blastoise",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/009.png",
+                            "egg": "Not in Eggs",
+                            "id": "9",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Squirtle",
+                                               "num": "007"
+                                               },
+                                               {
+                                               "name": "Wartortle",
+                                               "num": "008"
+                                               }
+                                               ],
+                            "num": "009",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass"
+                                           ],
+                            "type": [
+                                     "Water"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Shellder",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/090.png",
+                            "egg": "5 km",
+                            "id": "90",
+                            "next_evolution": [{
+                                               "name": "Cloyster",
+                                               "num": "091"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "090",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass"
+                                           ],
+                            "type": [
+                                     "Water"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Cloyster",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/091.png",
+                            "egg": "Not in Eggs",
+                            "id": "91",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Shellder",
+                                               "num": "090"
+                                               }],
+                            "num": "091",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass",
+                                           "Fighting",
+                                           "Rock"
+                                           ],
+                            "type": [
+                                     "Water",
+                                     "Ice"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Gastly",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/092.png",
+                            "egg": "5 km",
+                            "id": "92",
+                            "next_evolution": [{
+                                               "name": "Haunter",
+                                               "num": "093"
+                                               },
+                                               {
+                                               "name": "Gengar",
+                                               "num": "094"
+                                               }
+                                               ],
+                            "prev_evolution": null,
+                            "num": "092",
+                            "weaknesses": [
+                                           "Ground",
+                                           "Psychic",
+                                           "Ghost",
+                                           "Dark"
+                                           ],
+                            "type": [
+                                     "Ghost",
+                                     "Poison"
+                                     ],
+                            "candy_count": 25
+                            }, {
+                            "name": "Haunter",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/093.png",
+                            "egg": "Not in Eggs",
+                            "id": "93",
+                            "next_evolution": [{
+                                               "name": "Gengar",
+                                               "num": "094"
+                                               }],
+                            "prev_evolution": [{
+                                               "name": "Gastly",
+                                               "num": "092"
+                                               }],
+                            "num": "093",
+                            "weaknesses": [
+                                           "Ground",
+                                           "Psychic",
+                                           "Ghost",
+                                           "Dark"
+                                           ],
+                            "type": [
+                                     "Ghost",
+                                     "Poison"
+                                     ],
+                            "candy_count": 100
+                            }, {
+                            "name": "Gengar",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/094.png",
+                            "egg": "Not in Eggs",
+                            "id": "94",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Gastly",
+                                               "num": "092"
+                                               },
+                                               {
+                                               "name": "Haunter",
+                                               "num": "093"
+                                               }
+                                               ],
+                            "num": "094",
+                            "weaknesses": [
+                                           "Ground",
+                                           "Psychic",
+                                           "Ghost",
+                                           "Dark"
+                                           ],
+                            "type": [
+                                     "Ghost",
+                                     "Poison"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Onix",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/095.png",
+                            "egg": "10 km",
+                            "id": "95",
+                            "next_evolution": null,
+                            "prev_evolution": null,
+                            "num": "095",
+                            "weaknesses": [
+                                           "Water",
+                                           "Grass",
+                                           "Ice",
+                                           "Fighting",
+                                           "Ground",
+                                           "Steel"
+                                           ],
+                            "type": [
+                                     "Rock",
+                                     "Ground"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Drowzee",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/096.png",
+                            "egg": "5 km",
+                            "id": "96",
+                            "next_evolution": [{
+                                               "name": "Hypno",
+                                               "num": "097"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "096",
+                            "weaknesses": [
+                                           "Bug",
+                                           "Ghost",
+                                           "Dark"
+                                           ],
+                            "type": [
+                                     "Psychic"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Hypno",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/097.png",
+                            "egg": "Not in Eggs",
+                            "id": "97",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Drowzee",
+                                               "num": "096"
+                                               }],
+                            "num": "097",
+                            "weaknesses": [
+                                           "Bug",
+                                           "Ghost",
+                                           "Dark"
+                                           ],
+                            "type": [
+                                     "Psychic"
+                                     ],
+                            "candy_count": null
+                            }, {
+                            "name": "Krabby",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/098.png",
+                            "egg": "5 km",
+                            "id": "98",
+                            "next_evolution": [{
+                                               "name": "Kingler",
+                                               "num": "099"
+                                               }],
+                            "prev_evolution": null,
+                            "num": "098",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass"
+                                           ],
+                            "type": [
+                                     "Water"
+                                     ],
+                            "candy_count": 50
+                            }, {
+                            "name": "Kingler",
+                            "img": "http:\/\/www.serebii.net\/pokemongo\/pokemon\/099.png",
+                            "egg": "Not in Eggs",
+                            "id": "99",
+                            "next_evolution": null,
+                            "prev_evolution": [{
+                                               "name": "Krabby",
+                                               "num": "098"
+                                               }],
+                            "num": "099",
+                            "weaknesses": [
+                                           "Electric",
+                                           "Grass"
+                                           ],
+                            "type": [
+                                     "Water"
+                                     ],
+                            "candy_count": null
+                            }]
+                }
+        ]
+}
